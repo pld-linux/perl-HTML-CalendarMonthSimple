@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	HTML
-%define	pnam	CalendarMonthSimple
+%define		pdir	HTML
+%define		pnam	CalendarMonthSimple
 Summary:	HTML::CalendarMonthSimple - generating HTML calendars
 Summary(pl):	HTML::CalendarMonthSimple - generowanie kalendarzy w HTML
 Name:		perl-HTML-CalendarMonthSimple
