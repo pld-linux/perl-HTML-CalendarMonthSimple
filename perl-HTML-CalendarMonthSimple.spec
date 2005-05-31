@@ -8,12 +8,12 @@
 Summary:	HTML::CalendarMonthSimple - generating HTML calendars
 Summary(pl):	HTML::CalendarMonthSimple - generowanie kalendarzy w HTML
 Name:		perl-HTML-CalendarMonthSimple
-Version:	1.24
+Version:	1.25
 Release:	1
 License:	free (see README)
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	5dce8f7b09a0f6994d260cb2154455e4
+# Source0-md5:	2f9fcad2627890cc11ab5c3cd3c986cf
 %if %{with tests}
 BuildRequires:	perl-Date-Calc
 %endif
