@@ -6,7 +6,7 @@
 %define		pdir	HTML
 %define		pnam	CalendarMonthSimple
 Summary:	HTML::CalendarMonthSimple - generating HTML calendars
-Summary(pl):	HTML::CalendarMonthSimple - generowanie kalendarzy w HTML
+Summary(pl.UTF-8):   HTML::CalendarMonthSimple - generowanie kalendarzy w HTML
 Name:		perl-HTML-CalendarMonthSimple
 Version:	1.25
 Release:	1
@@ -28,10 +28,10 @@ manipulating, and printing a HTML calendar grid for a specified month.
 It is intended as a faster and easier-to-use alternative to
 HTML::CalendarMonth.
 
-%description -l pl
-HTML::CalendarMonthSimple to modu³ Perla do generowania, obrabiania i
-drukowania tabelek HTML z kalendarzem dla okre¶lonego miesi±ca.
-Powinien byæ szybsz± i ³atwiejsz± w u¿yciu alternatyw± dla
+%description -l pl.UTF-8
+HTML::CalendarMonthSimple to moduÅ‚ Perla do generowania, obrabiania i
+drukowania tabelek HTML z kalendarzem dla okreÅ›lonego miesiÄ…ca.
+Powinien byÄ‡ szybszÄ… i Å‚atwiejszÄ… w uÅ¼yciu alternatywÄ… dla
 HTML::CalendarMonth.
 
 %prep
