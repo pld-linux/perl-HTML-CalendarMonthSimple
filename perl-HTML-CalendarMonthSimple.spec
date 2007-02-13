@@ -6,7 +6,7 @@
 %define		pdir	HTML
 %define		pnam	CalendarMonthSimple
 Summary:	HTML::CalendarMonthSimple - generating HTML calendars
-Summary(pl.UTF-8):   HTML::CalendarMonthSimple - generowanie kalendarzy w HTML
+Summary(pl.UTF-8):	HTML::CalendarMonthSimple - generowanie kalendarzy w HTML
 Name:		perl-HTML-CalendarMonthSimple
 Version:	1.25
 Release:	1
